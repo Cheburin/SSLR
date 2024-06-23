@@ -1,0 +1,9 @@
+﻿# ignore
+/packages/directxtk_desktop_2013.2018.4.23.1
+/SSLR/Debug
+/SSLR/DXUT
+*.aps
+*.sdf
+*.suo
+*.opensdf
+/Debug
